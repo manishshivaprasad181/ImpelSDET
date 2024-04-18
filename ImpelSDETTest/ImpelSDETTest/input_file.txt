@@ -1,0 +1,4 @@
+login_page_url=https://test-engineer-assignment-manager.testenv.impel.io/login?next=%2F
+admin_username=manish@impel.io
+admin_password=WGZbeRGL
+main_page_url=https://test-engineer-assignment-manager.testenv.impel.io/
